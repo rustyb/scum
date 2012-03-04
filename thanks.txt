@@ -1,0 +1,26 @@
+<head><link href="style.css" rel="stylesheet">
+</head>
+
+<div style="z-index: 1; position: absolute; top: 0px; width: 1200px; height; 1200px; text-align: center;">
+
+
+<div style="z-index: 2; position: absolute; top: 0px; width: 1200px; height; 1200px;">
+<img src="bg.png">
+</div>
+
+<div class="anav "style="z-index: 3; position: absolute; top: 650px; left: 100px;">
+<a href="https://twitter.com/scumbagonthebus" target="_blank"><img src="quote_static.png"></a>
+</div>
+
+
+<div style="z-index: 3; position: absolute; top: 550px; text-align: center; width: 1300px;">
+
+<img src="">
+
+
+</div>
+
+
+
+
+

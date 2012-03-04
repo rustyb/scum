@@ -1,0 +1,46 @@
+<head><link href="style.css" rel="stylesheet">
+</head>
+
+<div style="z-index: 1; position: absolute; top: 0px; width: 1200px; height; 1200px; text-align: center;">
+
+
+<div style="z-index: 2; position: absolute; top: 0px; width: 1200px; height; 1200px;">
+<img src="bg.png">
+</div>
+
+<div class="anav "style="z-index: 3; position: absolute; top: 650px; left: 100px;">
+<a href="https://twitter.com/scumbagonthebus" target="_blank"><img src="quote_static.png"></a>
+</div>
+
+
+<div style="z-index: 3; position: absolute; top: 550px; text-align: center; width: 1300px;">
+
+<script type="text/javascript">var submitted=false;</script>
+<iframe name="hidden_iframe" id="hidden_iframe"
+style="display:none;" onload="if(submitted)
+{window.location='thanks.html;}"></iframe>
+<form action="https://docs.google.com/spreadsheet/formResponse?formkey=dHp5cjFmSzVPMWg0Qk9XS3VkQ0FIcHc6MQ&amp;ifq" method="post"
+target="hidden_iframe" onsubmit="submitted=true;">
+
+<br>
+<div class="errorbox-good">
+<div class="ss-item  ss-text"><div class="ss-form-entry"><label class="ss-q-title" for="entry_0"><font size="+4">sign up for private beta access</font>
+</label>
+<label class="ss-q-help" for="entry_0"></label>
+<input type="text" name="entry.0.single" value="" class="ss-q-short" id="entry_0"></div></div></div>
+<br>
+<input type="hidden" name="pageNumber" value="0">
+<input type="hidden" name="backupCache" value="">
+
+<div class="ss-item ss-navigate"><div class="ss-form-entry">
+<input type="submit" name="submit" value="Submit"></div></div></form>
+
+</div>
+
+
+</div>
+
+
+
+
+
